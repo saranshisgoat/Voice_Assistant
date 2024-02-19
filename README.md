@@ -24,6 +24,7 @@ Install dependencies using:
 ```bash
 pip install SpeechRecognition gtts pydub pyautogui
 
+
 ## Configuration
 
 Ensure correct configuration of the following:
