@@ -1,0 +1,12 @@
+Usage
+Run the main() function to initiate the voice assistant.
+Use voice commands prefixed with the keyword "siri" for the assistant to recognize.
+Example Commands:
+"smj, add a task": Adds a task to the list.
+"smj, list tasks": Lists the current tasks.
+"smj, take a screenshot": Captures a screenshot.
+"smj, open chrome": Opens Chrome to a specific URL.
+"smj, exit": Terminates the voice assistant.
+Notes
+Ensure paths to Python, the main script, and FFmpeg are correctly specified.
+Handle KeyboardInterrupt (Ctrl+C) to exit the program gracefully.
